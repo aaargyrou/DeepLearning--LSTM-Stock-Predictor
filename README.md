@@ -1,4 +1,4 @@
-# DeepLearning--LTSM-Stock-Predictor
+# DeepLearning--LSTM-Stock-Predictor
 
 
 ## Notebooks
@@ -16,7 +16,7 @@
 
 ---
 
-## Building the LTSM RNN Model
+## Building the LSTM RNN Model
 * Specified three LSTM layers, each accompanied by a dropout layer
 * Compiled and trained the model with 100 epochs and 1 batch size
 
